@@ -1,0 +1,20 @@
+w: 1440px
+h: 2369px
+
+header:
+w: 1440px
+h: 174px
+
+manage:
+w: 145.54px (espacio left: 165px)
+h: 23.74px  (espacion top: 75.13px)
+
+navlist:
+w: 382px    (espacio left 534.54px right 523.46px)
+h: 23px     (espacio top 75.5px)
+distancia con manage: left 224px (15.55%)
+
+nav button:
+w: 134px    (distancia con right 165.46px)
+h: 44px     (espacio top 65px)
+distancia con ul 210px (14.58%)
